@@ -2,7 +2,7 @@
 
 ## Analyzing Raw Data of Multiple Kickstarter projects to find trends for a client
 
-### Filtering data to find Outcomes on other Kickstarters based on their Launch dates and Goals
+### Filtering data to find outcomes on other kickstarters based on their launch dates and goals
 
 ## Our client wanted to compare her succesful play to other campaigns to see how they fared. Applying filters to the raw excel data to narrow our options and creating new columns of data that will be later used. Using a pivot table I was able to narrow "theatre" type kickstarter campaigns as well as their outcomes.
 
